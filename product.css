@@ -88,7 +88,7 @@
 
 .first-img {
   width: 100%; 
-  height: 500px;
+  height: 300px;
   background-image: url(static/bg-labs.webp);
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@
 
 .secont-img {
   width: 100%; 
-  height: 500px;
+  height: 300px;
   background-image: url(static/tech-tree.webp);
   background-repeat: no-repeat;
   background-size: cover;
